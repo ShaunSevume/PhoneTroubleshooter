@@ -1,0 +1,1 @@
+The program can read the the list of 8 generic solutions stored in the solutions.txt file. It will accept the user's input as a string, identifying keywords in order to determine which line to read and output from the txt file.

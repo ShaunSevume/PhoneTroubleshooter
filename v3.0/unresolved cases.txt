@@ -1,0 +1,45 @@
+Name wunton master
+Email: noodleshop@gmail.com
+Date + Time: 2016-09-13 10:58:02.661835
+User Problem: my phone  = brightness
+Case No: 419
+Name Goat Russell Westbrook
+Email: Russwest44@gmail.com
+Date + Time: 2016-09-13 14:57:48.128674
+User Problem: battery is not being able to charge for ma phone u gret me blud 
+Case No: 333
+Name Shaun
+Email: email
+Date + Time: 2016-09-17 18:30:38.861876
+User Problem: battery is dead
+Case No: 317
+Name Shaun
+Email: email
+Device: iPhone 6S
+Date + Time: 2016-09-17 18:31:59.191186
+User Problem: screen is broken
+Case No: 544
+Name Shaun
+Email: sss
+Device: Sony xperia
+Date + Time: 2016-09-18 09:28:21.286794
+User Problem: screen
+Case No: 282
+Name Shaun
+Email: SShaun304@gmail.com
+Device: Sony Xperia
+Date + Time: 2016-09-18 21:11:13.575692
+User Problem: The volume is too low
+Case No: 369
+Name NERON
+Email: TSEGGAY
+Device: Sony XPERIA M4
+Date + Time: 2016-11-15 16:11:45.128450
+User Problem: BATTERY 
+Case No: 465
+Name olfosdfgfgj
+Email: ikfasduiofseogseigsdogoghd1111
+Device: Samsung Galaxy s7
+Date + Time: 2016-11-15 16:16:25.846519
+User Problem: it is not charging 
+Case No: 444

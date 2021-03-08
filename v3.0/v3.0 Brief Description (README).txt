@@ -1,0 +1,1 @@
+The program is able to identify the make of the user's phone (iPhone, Samsung or Sony) and read the solutions from their corresponding txt file, based on keywords identified from user input. Additionally, if the user does not find their solution, a "Report Ticket" is generated with their details and issue to be passed on to someone else to provide assistance.
